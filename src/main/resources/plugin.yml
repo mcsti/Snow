@@ -1,0 +1,6 @@
+name: Snow
+version: @version@
+main: com.github.mcsti.snow.Main
+api-version: 1.16
+authors: [ enimaloc ]
+description: Improved snow
